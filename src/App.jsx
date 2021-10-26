@@ -1,10 +1,10 @@
 import './global.css';
-import Form from './Components/Form'
+import Contract from './Pages/Contract'
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <Contract />
     </div>
   );
 }
